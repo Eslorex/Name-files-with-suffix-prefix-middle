@@ -2,6 +2,16 @@
 
 This guide explains how to use the `file_renamer.exe` application to batch rename files with optional prefixes, suffixes, and middle parts.
 
+I created file_renamer.exe to organize files in my game projects. This tool helps me categorize assets like Textures, Models, etc., by adding prefixes, suffixes, and descriptive middle parts to filenames. It ensures files are easily identifiable and organized based on their type and purpose within the project.
+This helps me quickly locate and manage my game assets.
+
+- Original File Name: character_model.fbx
+- Prefix: Model_
+- Middle Part: Hero
+- Suffix: _V1
+- Result: Model_Hero_V1.fbx
+
+
 ## Features
 1. **Select Files to Rename**:
    - Click on the "Select Files" button.
